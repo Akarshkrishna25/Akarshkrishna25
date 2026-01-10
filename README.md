@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi, I'm Akarsh Krishna 👋
 
-<!--
-**Akarshkrishna25/Akarshkrishna25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Data Analyst** with strong experience in **Python, SQL, Pandas, Power BI**, 
+currently transitioning toward **Data Science and Machine Learning**.
 
-Here are some ideas to get you started:
+### 🔍 Skills
+- Python (Pandas, NumPy, Matplotlib)
+- SQL (PostgreSQL)
+- Power BI & Excel
+- Data Cleaning, EDA, Statistics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 Projects
+- Dam Statistics Analysis – Kerala
+- E-commerce Sales Analytics
+- Canteen Order Analytics
+
+### 🎯 Career Goal
+To grow as a **Data Scientist** by building end-to-end data science projects.
+
+📫 LinkedIn: https://linkedin.com/in/akarsh-krishna-56a598395
