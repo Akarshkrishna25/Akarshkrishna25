@@ -2,24 +2,22 @@
 
 I am a **Data Analyst** with strong experience in **Python, SQL, Pandas, Power BI**, 
 currently transitioning toward **Data Science and Machine Learning**.
-<h2>🔍 Skills</h2>
+## 🔍 Skills
 
-<div style="display:flex; flex-wrap:wrap; gap:10px;">
-  <span style="background:#3776AB;color:white;padding:6px 12px;border-radius:4px;">Python</span>
-  <span style="background:#150458;color:white;padding:6px 12px;border-radius:4px;">Pandas</span>
-  <span style="background:#013243;color:white;padding:6px 12px;border-radius:4px;">NumPy</span>
-  <span style="background:#11557C;color:white;padding:6px 12px;border-radius:4px;">Matplotlib</span>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 
-  <span style="background:#4169E1;color:white;padding:6px 12px;border-radius:4px;">PostgreSQL</span>
-  <span style="background:#003B57;color:white;padding:6px 12px;border-radius:4px;">SQL</span>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge)
 
-  <span style="background:#F2C811;color:black;padding:6px 12px;border-radius:4px;">Power BI</span>
-  <span style="background:#217346;color:white;padding:6px 12px;border-radius:4px;">Excel</span>
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-  <span style="background:#4CAF50;color:white;padding:6px 12px;border-radius:4px;">Data Cleaning</span>
-  <span style="background:#9C27B0;color:white;padding:6px 12px;border-radius:4px;">EDA</span>
-  <span style="background:#FF5722;color:white;padding:6px 12px;border-radius:4px;">Statistics</span>
-</div>
+![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-4CAF50?style=for-the-badge)
+![EDA](https://img.shields.io/badge/EDA-9C27B0?style=for-the-badge)
+![Statistics](https://img.shields.io/badge/Statistics-FF5722?style=for-the-badge)
 
 
 ### 📊 Projects
