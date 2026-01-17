@@ -21,9 +21,9 @@ currently transitioning toward **Data Science and Machine Learning**.
 
 
 ### 📊 Projects
-- Dam Statistics Analysis – Kerala
-- E-commerce Sales Analytics
-- Canteen Order Analytics
+- E-commerce Website
+- Canteen Management System
+- Customer Behavior Analysis
 
 ### 🎯 Career Goal
 To grow as a **Data Scientist** by building end-to-end data science projects.
