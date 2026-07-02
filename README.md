@@ -51,48 +51,6 @@
 
 ---
 
-# 💻 Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,postgres,mysql,git,github,vscode&perline=7"/>
-
-</p>
-
-### Languages
-- Python
-- SQL
-
-### Libraries
-- Pandas
-- NumPy
-- Matplotlib
-- Scikit-learn
-
-### Data Analytics
-- Exploratory Data Analysis (EDA)
-- Data Cleaning
-- Data Visualization
-- Feature Engineering
-- Statistics
-
-### Machine Learning
-- Regression
-- Classification
-- Model Evaluation
-- NLP
-
-### Tools
-- Power BI
-- Excel
-- Jupyter Notebook
-- Git
-- GitHub
-
----
-
-
-
 
 # 🔥 GitHub Streak
 
