@@ -1,37 +1,218 @@
-## Hi, I'm Akarsh Krishna 👋
+<h1 align="center">Hi 👋, I'm Akarsh Krishna</h1>
 
-I am a **Data Analyst** with strong experience in **Python, SQL, Pandas, Power BI**,  
-currently transitioning toward **Data Science, Machine Learning, Deep Learning, NLP, and Generative AI**.
+<h3 align="center">
+Data Analyst • Machine Learning Enthusiast • Generative AI Learner
+</h3>
 
-## 🔍 Skills
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&center=true&vCenter=true&width=750&lines=Data+Analyst;Machine+Learning+Enthusiast;Python+Developer;Generative+AI+Learner;Building+AI-Powered+Applications" />
+</p>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-2E86C1?style=for-the-badge)
+---
 
-![Machine%20Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge)
-![Deep%20Learning](https://img.shields.io/badge/Deep%20Learning-8E44AD?style=for-the-badge)
-![NLP](https://img.shields.io/badge/NLP-00ACC1?style=for-the-badge)
-![Generative%20AI](https://img.shields.io/badge/Generative%20AI-FF4081?style=for-the-badge)
+## 🚀 About Me
 
-![Statistics](https://img.shields.io/badge/Statistics-FF5722?style=for-the-badge)
-![Data%20Cleaning](https://img.shields.io/badge/Data%20Cleaning-4CAF50?style=for-the-badge)
-![EDA](https://img.shields.io/badge/EDA-9C27B0?style=for-the-badge)
+🎓 Computer Science Engineering Graduate
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge)
+📊 Passionate about Data Analytics, Machine Learning, and Artificial Intelligence.
 
-![Power%20BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+💻 Experienced with Python, SQL, Pandas, NumPy, Power BI, and Scikit-learn.
 
-### 📊 Projects
-- E-commerce Website
-- Canteen Management System
-- Customer Behavior Analysis
+🤖 Currently exploring
 
-### 🎯 Career Goal
-To grow as a **Data Scientist** by building end-to-end data science and AI projects.
+- Deep Learning
+- Natural Language Processing (NLP)
+- Generative AI
+- LangChain
+- Large Language Models (LLMs)
 
-📫 LinkedIn: https://linkedin.com/in/akarsh-krishna-56a598395
+🌱 I enjoy building end-to-end Machine Learning applications, from data preprocessing and model training to deployment.
+
+💼 Open to opportunities in
+
+- Data Analytics
+- Machine Learning
+- Data Science
+- AI Engineering
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/akarsh-krishna-56a598395">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 💻 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,postgres,mysql,git,github,vscode,linux&perline=7"/>
+
+</p>
+
+### Languages
+- Python
+- SQL
+
+### Libraries
+- Pandas
+- NumPy
+- Matplotlib
+- Scikit-learn
+
+### Data Analytics
+- Exploratory Data Analysis (EDA)
+- Data Cleaning
+- Data Visualization
+- Feature Engineering
+- Statistics
+
+### Machine Learning
+- Regression
+- Classification
+- Model Evaluation
+- NLP
+
+### Tools
+- Power BI
+- Excel
+- Jupyter Notebook
+- Git
+- GitHub
+
+---
+
+# 🚀 Featured Projects
+
+## ✈ Flight Price Prediction
+
+• Built an end-to-end ML application to predict airline ticket prices.
+
+**Tech Stack**
+
+Python • Pandas • Scikit-learn • Random Forest • Streamlit
+
+---
+
+## 📩 SMS Spam Detection
+
+• Developed an NLP application that classifies SMS messages as Spam or Ham.
+
+**Tech Stack**
+
+Python • NLP • TF-IDF • Logistic Regression • Naive Bayes
+
+---
+
+## 📊 Customer Behavior Analysis
+
+• Performed customer segmentation and business insight generation using retail transaction data.
+
+**Tech Stack**
+
+Python • SQL • Power BI • Pandas
+
+---
+
+## 📚 Research Paper Assistant
+
+• AI application capable of answering questions from uploaded research papers using LLMs.
+
+**Tech Stack**
+
+LangChain • RAG • LLM • Python
+
+---
+
+## 📝 Blog Application
+
+• Full-stack blog platform with authentication and CRUD functionality.
+
+**Tech Stack**
+
+Django • Python • SQL
+
+---
+
+# 📈 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Akarshkrishna25&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akarshkrishna25&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Akarshkrishna25&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Akarshkrishna25&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Akarshkrishna25&theme=tokyonight&row=1&column=6"/>
+
+</p>
+
+---
+
+# 🌱 Currently Learning
+
+- Large Language Models (LLMs)
+- LangChain
+- Retrieval-Augmented Generation (RAG)
+- Deep Learning
+- Agentic AI
+- MLOps
+
+---
+
+# 📫 Reach Me
+
+📧 **Email:** YOUR_EMAIL
+
+💼 **LinkedIn:** https://www.linkedin.com/in/akarsh-krishna-56a598395
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Akarshkrishna25&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+
+</p>
+
+---
+
+<p align="center">
+⭐ Transforming data into intelligent solutions through Machine Learning and Generative AI.
+</p>
