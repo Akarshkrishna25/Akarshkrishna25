@@ -104,15 +104,7 @@ Python • Pandas • Scikit-learn • Random Forest • Streamlit
 
 ---
 
-## 📩 SMS Spam Detection
 
-• Developed an NLP application that classifies SMS messages as Spam or Ham.
-
-**Tech Stack**
-
-Python • NLP • TF-IDF • Logistic Regression • Naive Bayes
-
----
 
 ## 📊 Customer Behavior Analysis
 
