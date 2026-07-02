@@ -56,7 +56,7 @@ Data Analyst • Machine Learning Enthusiast • Generative AI Learner
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,postgres,mysql,git,github,vscode,linux&perline=7"/>
+<img src="https://skillicons.dev/icons?i=python,postgres,mysql,git,github,vscode&perline=7"/>
 
 </p>
 
