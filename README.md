@@ -165,15 +165,7 @@ Django • Python • SQL
 
 ---
 
-# 🏆 GitHub Trophies
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Akarshkrishna25&theme=tokyonight&row=1&column=6"/>
-
-</p>
-
----
 
 # 🌱 Currently Learning
 
