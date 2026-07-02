@@ -92,49 +92,7 @@ Data Analyst • Machine Learning Enthusiast • Generative AI Learner
 
 ---
 
-# 🚀 Featured Projects
 
-## ✈ Flight Price Prediction
-
-• Built an end-to-end ML application to predict airline ticket prices.
-
-**Tech Stack**
-
-Python • Pandas • Scikit-learn • Random Forest • Streamlit
-
----
-
-
-
-## 📊 Customer Behavior Analysis
-
-• Performed customer segmentation and business insight generation using retail transaction data.
-
-**Tech Stack**
-
-Python • SQL • Power BI • Pandas
-
----
-
-## 📚 Research Paper Assistant
-
-• AI application capable of answering questions from uploaded research papers using LLMs.
-
-**Tech Stack**
-
-LangChain • RAG • LLM • Python
-
----
-
-## 📝 Blog Application
-
-• Full-stack blog platform with authentication and CRUD functionality.
-
-**Tech Stack**
-
-Django • Python • SQL
-
----
 
 
 # 🔥 GitHub Streak
