@@ -1,9 +1,8 @@
-<h1 align="center">Hi 👋, I'm Akarsh Krishna</h1>
+<div align="center">
 
-<h3 align="center">
-Data Analyst • Machine Learning Enthusiast • Generative AI Learner
-</h3>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=90&section=header&text=👋%20Hi,%20I'm%20Akarsh%20Krishna&fontSize=42&fontColor=ffffff&animation=twinkling"/>
 
+</div>
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&center=true&vCenter=true&width=750&lines=Data+Analyst;Machine+Learning+Enthusiast;Python+Developer;Generative+AI+Learner;Building+AI-Powered+Applications" />
 </p>
