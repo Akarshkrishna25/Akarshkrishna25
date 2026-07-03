@@ -87,7 +87,7 @@
 
 # 📫 Reach Me
 
-📧 **Email:** YOUR_EMAIL
+📧 **Email:** akarshkrishna.kc@gmail.com
 
 💼 **LinkedIn:** https://www.linkedin.com/in/akarsh-krishna-56a598395
 
